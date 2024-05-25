@@ -1,0 +1,67 @@
+<html>
+  <!---Random Mumbo Jumbo--->
+
+  <head>
+    <!---font--->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <!---End of font--->
+    <title>Boredom</title>
+  </head>
+  <!---Main code--->
+
+  <body>
+
+    <!---Header--->
+    <div class="Header">
+      <button class="logo_button">
+        <p style="text-align: middle; color: black">
+          Logo Place Holder
+        </p>
+      </button>
+      <!---Right Header--->
+      <div class="header-right">
+        <button class="shop_button">
+          <a class="active">Shop</a>
+        </button>
+      </div>
+      <!---End of right header--->
+
+      <!---Left Header--->
+      <div class="header-left">
+        <button class="cures_button">
+          <a class="active-left">Cures</a>
+        </button>
+      </div>
+      <!---End of left header--->
+    </div>
+    <!---End of Header--->
+
+    <!---Fact 1--->
+    <div>
+      <div style="width: 25%; float: left;">
+        <h2>
+          Pro's of Boredom
+        </h2>
+        <p>A intresting fact about boredom is that it can actually help you in a multitude of ways. The first way is that it can increase problem solving skills. Another benefeit caused by boredom is self-discovery. Boredom can help you find what you intrested in. It can also lead to you realising things. Finding things that you may take for granted. Boredom also fosters independence in children as they can learn what to do with their time. Finally boredom can help to teach communication skills. When there is nothing left to do people will often talk to each other which will obviously improve communication skills.</p>
+      </div>
+      <div style="float: left; width: 80%;">
+      </div>
+    </div>
+    <!---end of fact 1--->
+
+    <!---Fact 2--->
+    <div>
+      <div style="width: 25%; float: right;">
+        <p>
+          
+        </p>
+      </div>
+      <div style="float: right; width: 80%;">
+      </div>
+    </div>
+    <!---end of fact 2--->
+  </body>
+
+</html>
