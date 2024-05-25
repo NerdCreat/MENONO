@@ -1,0 +1,67 @@
+/* Random CSS Mumbo Jumbo */
+body {
+  background-color: #0F0F0F;
+}
+
+/* Text Styles */
+h2 {
+  color: White;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  color: White;
+}
+
+a {
+  color: Black;
+}
+
+/* Header */
+.Header {
+  overflow: hidden;
+  background-color: #FEF9F3;
+  padding: 20px 10px;
+}
+
+/* Header Buttons */
+
+/* Logo header button */
+.logo_button {
+  background-color: #FEF9F3;
+  border: none;
+}
+
+.logo_button:hover {
+  background-color: Green;
+  cursor: pointer;
+}
+
+/* Logo header button end */
+
+/* Cures header button */
+.cures_button {
+  background-color: #FEF9F3;
+  border: none;
+}
+
+.cures_button:hover {
+  background-color: Green;
+  cursor: pointer;
+}
+
+/* End of cures header button */
+
+/* Shop header button */
+.shop_button {
+  background-color: #FEF9F3;
+  border: none;
+}
+
+.shop_button:hover {
+  background-color: Green;
+  cursor: pointer;
+}
+
+/* End of shop header button */
